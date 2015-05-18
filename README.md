@@ -1,1 +1,1 @@
-# ruby_rock_paper_scissors
+An early exercise in basic Ruby programming.  A game of rock, paper, scissors.
